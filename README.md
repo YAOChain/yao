@@ -1,2 +1,2 @@
 # yao
-Develop a yao blockchain using cosmos and tendermints.
+Yao is a new blockchain computing network that is based on a sharding architecture to enable highly scalable, highly concurrent and accurate trusted computing networks. Yao uses binary tree sharding as the infrastructure to continuously release different computing tasks to the appropriate level, so that the parallelism, precision, and energy efficiency requirements of computing can be effectively unified.
