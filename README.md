@@ -1,2 +1,2 @@
 # yao
-Develop a yao blockchain using cosmos and tendermint.
+Develop a yao blockchain using cosmos and tendermints.
