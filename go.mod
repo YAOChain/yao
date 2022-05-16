@@ -16,7 +16,7 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/google/gofuzz v1.0.0 // indirect
 	github.com/gorilla/mux v1.7.0
-	github.com/gorilla/websocket v1.4.0
+	github.com/gorilla/websocket v1.4.1
 	github.com/libp2p/go-buffer-pool v0.0.1
 	github.com/magiconair/properties v1.8.1
 	github.com/mattn/go-isatty v0.0.6
